@@ -1,0 +1,35 @@
+Argument 2 passed to cAvatar() must be of the type array, null given, called in W:\xampp\htdocs\TFG\MVC\app\controller\ControllerAjax.php on line 2412023-05-10 18:55:00
+Argument 8 passed to FindIt::insertarUsuario() must be of the type int, string given, called in W:\xampp\htdocs\TFG\MVC\app\controller\ControllerAjax.php on line 2442023-05-10 18:59:14
+Argument 9 passed to FindIt::insertarUsuario() must be of the type int, string given, called in W:\xampp\htdocs\TFG\MVC\app\controller\ControllerAjax.php on line 2442023-05-10 19:00:41
+Object of class PDOStatement could not be converted to string2023-05-10 19:02:20
+Argument 1 passed to FindIt::insertarToken() must be of the type int, string given, called in W:\xampp\htdocs\TFG\MVC\app\controller\Controller.php on line 561 2023-05-10 20:23:04
+Argument 1 passed to FindIt::insertarToken() must be of the type int, array given, called in W:\xampp\htdocs\TFG\MVC\app\controller\Controller.php on line 562 2023-05-10 20:32:54
+Path ctl: "userpage. Not found.2023-05-11 12:16:13
+Not found. Method does not exist.2023-05-11 12:16:13
+Path ctl: "newsletter. Not found.2023-05-11 12:20:50
+Not found. Method does not exist.2023-05-11 12:20:50
+Path ctl: "post. Not found.2023-05-17 10:04:41
+Not found. Method does not exist.2023-05-17 10:04:41
+Argument 1 passed to FindIt::insertarToken() must be of the type int, string given, called in W:\xampp\htdocs\TFG\MVC\app\controller\ControllerAjax.php on line 962023-05-17 22:31:17
+Path ctl: "verify. Not found.2023-05-18 19:26:10
+Not found. Method does not exist.2023-05-18 19:26:10
+Not found. Method does not exist.2023-05-18 19:34:53
+Not found. Method does not exist.2023-05-18 19:34:53
+Not found. Method does not exist.2023-05-18 19:34:53
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
+Not found. Method does not exist.2023-05-18 19:34:54
